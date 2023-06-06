@@ -1,11 +1,25 @@
-cabeçalho_menu-hamburguer {
+.cabeçalho_menu-hamburguer {
   width: 24px;
   height: 24px;
   background-image: url ("../img/Menu.svg");
-  background-repeat: no-repeat;
-  background-position:center
   display: inline-block;
 }
- .container_botao:checked~.container_rotulo>.cabeçalho_menu-hamburguer{
-    background-image:url("../img/Menu Alberto.svg");
-   {
+   <link rel="stylesheet" href="header.css">
+.container_botao:checked~.container_rotulu{
+  background:var(--azul-degrade);
+.cabeçalho{
+  background-color:var(--branco);
+  display:flex;
+  justify-content:space-between;
+  alingn-items:center;
+  position:relative;
+  }
+ 
+  .container{
+    isplay:flex:
+      align-items:center:
+      {
+   
+  .container_imagem{
+    padding:1em:
+      {
